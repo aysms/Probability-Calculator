@@ -1,5 +1,5 @@
 ### My Contribution
-My contribution is in prob_calculator.py. The rest files including a test_module are created by freeCodeCamp.org.
+My contribution is in prob_calculator.py. The rest files are created by freeCodeCamp.org.
 
 ### Assignment
 
